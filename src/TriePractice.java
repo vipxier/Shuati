@@ -44,7 +44,7 @@ public class TriePractice {
 	{
 		if (string.isEmpty() && !this.word)
 		{
-			return true;
+			return true; // commit for code review 1234
 		}
 		else
 		{
